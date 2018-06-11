@@ -1,0 +1,4 @@
+actor: Login_pageTester
+modules:
+    enabled:
+        - \Helper\Login_page
