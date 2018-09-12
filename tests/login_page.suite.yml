@@ -2,3 +2,5 @@ actor: Login_pageTester
 modules:
     enabled:
         - \Helper\Login_page
+         - \Helper\Login_page_test
+        
